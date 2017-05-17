@@ -1,6 +1,9 @@
 # Victory-1
 Genre - Chiptune
 
+Song Name: Victory 1
+Artist: Josh Penn-Pierson
+
 [Youtube Link](https://www.youtube.com/watch?v=75CfRBohzAA&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU&index=6)
 
 Current Song Version: 1.0
